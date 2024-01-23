@@ -1,0 +1,19 @@
+﻿/*Seleccion de un elemento por tipo de elemento*/
+stacklayout {
+    background-color: brown;
+}
+/*Seleccion de un elemento por el nombre*/
+#listViewdos {
+    background-color: lightgrey;
+}
+
+.detailPageTitle {
+    font-style : bold;
+    font-size : 14;
+    text-align : center;
+}
+
+.detailPageSub {
+    text-align: center;
+    font-style: italic;
+}
